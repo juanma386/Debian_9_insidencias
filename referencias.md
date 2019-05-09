@@ -1,4 +1,4 @@
-# Esto es una referencia a lo que eh visto en mi trabajo en servidores
+# Esto es una referencia a lo que eh vivido en mi trabajo en servidores
 # Sistema: Debian 09
 
 En este momento me eh encontrado con un problema de entornos con Laravel 5.2
